@@ -45,7 +45,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '2014.03.14',
-            image: './images/logoHexo.png',
+            image: './logoHexo.png',
             description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
             location: {
                 center: { lon: -75.70958, lat: 45.46040 },
@@ -64,7 +64,7 @@ bearing: 12.00
             alignment: 'right',
             hidden: false,
             title: '2017.12.21',
-            image: './images/9861203 Canada Inc LOGO.png',
+            image: './9861203 Canada Inc LOGO.png',
             description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
             location: {
                 center: { lon: -72.29201, lat: 45.87369 },
@@ -83,7 +83,7 @@ bearing: -51.20
             alignment: 'right',
             hidden: false,
             title: '2017.12.21',
-            image: './images/logo Agri-Médic.png',
+            image: './logo Agri-Médic.png',
             description: '<i>Sociétés de portefeuille</i><BR><b>LICENCES:</b><BR> Vente (fins médicales) / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines <BR> <b>VENTE PATIENTS:</b><BR> Aucune',
             location: {
                 center: { lon: -74.12648, lat: 45.73287 },
