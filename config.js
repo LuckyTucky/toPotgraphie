@@ -64,7 +64,7 @@ bearing: 12.00
             alignment: 'right',
             hidden: false,
             title: '2017.12.21',
-            image: './9861203 Canada Inc LOGO.png',
+            image: './VotreLogoIci.png',
             description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
             location: {
                 center: { lon: -72.29201, lat: 45.87369 },
