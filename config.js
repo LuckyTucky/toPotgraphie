@@ -83,7 +83,7 @@ bearing: -51.20
             alignment: 'right',
             hidden: false,
             title: '2017.12.21',
-            image: './logo Agri-Médic.png',
+            image: './logoAgriMedic.png',
             description: '<i>Sociétés de portefeuille</i><BR><b>LICENCES:</b><BR> Vente (fins médicales) / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines <BR> <b>VENTE PATIENTS:</b><BR> Aucune',
             location: {
                 center: { lon: -74.12648, lat: 45.73287 },
