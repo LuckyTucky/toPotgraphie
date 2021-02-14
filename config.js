@@ -7,7 +7,7 @@ var config = {
     use3dTerrain: false,
     title: 'toPotgraphie du cannabis',
     subtitle: 'Une mise en récit de la naissance de l’industrie québécoise du cannabis',
-    byline: 'Une création de Luc Prévost',
+    byline: 'Une création de Luc H. Prévost',
     footer: 'toPot : Le média sur la science, l’industrie et la consommation du cannabis dans toute la francophonie.',
     chapters: [
         {
