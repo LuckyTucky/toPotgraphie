@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: 'toPotgraphie du cannabis',
             image: './LOGO toPot sans fond.png',
-            description: 'Le chanvre fait partie du territoire québécois depuis Jacques Cartier. Sa culture, sous toutes ses formes, est une libération qui enracine. L’industrie québécoise légale du cannabis occupe le territoire depuis 2014. J’ai pensé qu’un voyage dans le temps et l’espace serait une forme de reconnaissance du travail déjà accompli. Dans l’ordre de l’attribution des licences, la carte recense les initiatives d’entreprise québécoises qui façonnent l’avenir du cannabis au Québec. ',
+            description: 'Le chanvreee fait partie du territoire québécois depuis Jacques Cartier. Sa culture, sous toutes ses formes, est une libération qui enracine. L’industrie québécoise légale du cannabis occupe le territoire depuis 2014. J’ai pensé qu’un voyage dans le temps et l’espace serait une forme de reconnaissance du travail déjà accompli. Dans l’ordre de l’attribution des licences, la carte recense les initiatives d’entreprise québécoises qui façonnent l’avenir du cannabis au Québec. ',
             location: {
 						                center: { lon: -74.36140, lat: 51.22428 },
 					zoom: 4.86,
