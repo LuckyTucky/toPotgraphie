@@ -15,7 +15,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'toPotgraphie du cannabis',
-            image: './images/LOGO toPot sans fond.png',
+            image: './LOGO toPot sans fond.png',
             description: 'Le chanvre fait partie du territoire québécois depuis Jacques Cartier. Sa culture, sous toutes ses formes, est une libération qui enracine. L’industrie québécoise légale du cannabis occupe le territoire depuis 2014. J’ai pensé qu’un voyage dans le temps et l’espace serait une forme de reconnaissance du travail déjà accompli. Dans l’ordre de l’attribution des licences, la carte recense les initiatives d’entreprise québécoises qui façonnent l’avenir du cannabis au Québec. ',
             location: {
 						                center: { lon: -74.36140, lat: 51.22428 },
@@ -45,7 +45,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '2014.03.14',
-            image: './images/logoHexo.png',
+            image: './logoHexo.png',
             description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
             location: {
                 center: { lon: -75.70958, lat: 45.46040 },
@@ -64,7 +64,7 @@ bearing: 12.00
             alignment: 'right',
             hidden: false,
             title: '2017.12.21',
-            image: './images/9861203 Canada Inc LOGO.png',
+            image: './9861203 Canada Inc LOGO.png',
             description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
             location: {
                 center: { lon: -72.29201, lat: 45.87369 },
