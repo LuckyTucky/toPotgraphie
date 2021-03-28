@@ -77,6 +77,1486 @@ bearing: -51.20
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaI        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        {
+            id: 'stop1',
+            alignment: 'right',
+            hidden: false,
+            title: '2014.03.14',
+            image: './logoHexo.png',
+            description: 'Le premier producteur autorisé de l’histoire du Québec... n’est plus au Québec. Une histoire d’assurance.<BR> <b>LICENCES:</b><BR> Vente (fins médicales) / Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique<BR> <b>VENTE PATIENTS:</b><BR> Plantes / Graines Séché / Frais Extraits Comestible Topique',
+            location: {
+                center: { lon: -75.70958, lat: 45.46040 },
+zoom: 11.93,
+pitch: 44.50,
+bearing: 12.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'stop2',
+            alignment: 'right',
+            hidden: false,
+            title: '2017.12.21',
+            image: './9861203CanadaInc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },nc.png',
+            description: '<b>LICENCES:</b><BR> Transformation / Culture<BR> <b>VENTE PRO:</b><BR> Plantes / Grainese<BR> <b>VENTE PATIENTS:</b><BR> Aucune',
+            location: {
+                center: { lon: -72.29201, lat: 45.87369 },
+zoom: 11.61,
+pitch: 60.00,
+bearing: -51.20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
         },
         {
             id: 'stop3',
@@ -102,3 +1582,18 @@ bearing: 7.20
         
     ]
 };
+
+    © 2021 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
